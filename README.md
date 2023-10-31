@@ -58,18 +58,19 @@ In addition, the agility of the ai provided by Jasper could leverage a unique mo
 # Outlook
 The future market for AI content and creation providers is limited only by what we can't imagine. It is worthy to note that while these applications are becoming wide-spread, the basic premise still holds that to be successful (in writing accurate and persuasive content) the user must be knowledgable --if not an expert-- in the product, vertical market, etc. Stories of plagerism and inaccuracies abound and post a real concern for those looking to leverage AI content creation in their businesses. However, I believe that AI content creation will continue to radically trasnform and improve the quality of internal and external communications for companies of all sizes. I hope the customer ends up reaping the benefits of more impactful advertising, products, services and user manuals.  And that in-the-end, this reduces costs across the board for us, the end consumer!   
 
-## Addtional Articles
-https://explodingtopics.com/blog/ai-trends
-https://www.builtincolorado.com/companies/type/artificial-intelligence-companies\
-https://www.forbes.com/lists/ai50/?sh=38646480290f
-https://www.businessinsider.com/most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3
+## Addtional Reading
+[Exploding Topics](https://explodingtopics.com/blog/ai-trends)\
+[Built in Colorado](https://www.builtincolorado.com/companies/type/artificial-intelligence-companies)\
+[Forbes](https://www.forbes.com/lists/ai50/?sh=38646480290f)\
+[Buiness Insider](https://www.businessinsider.com/\most-promising-generative-artificial-intelligence-startups-according-vcs-venture-capital-2023-3)
 
 
 ## References
 
-[^1]:https://research.contrary.com/reports/jasper
-[^2]:https://nerdynav.com/jasper-ai-statistics
-[^3]:https://research.contrary.com/reports/jasper?head=;;market
-[^4]:https://writesonic.com/blog/jasper-ai-alternatives/#:~:text=copy%20ai%20alternatives.-,Rytr,turnaround%20time%20with%20the%20content
-[^5]:https://elearningindustry.com/elearning-trends-top-ld-trends-to-watch-out-for-in-2023#
+[^1]:[Contrary Research](https://research.contrary.com/reports/jasper)
+[^2]: [NerdyNav](https://nerdynav.com/jasper-ai-statistics)
+[^3]: [Contrary Rearch Reports](https://research.contrary.com/reports/jasper?head=;;market)
+[^4]: [Writesonic Blog](https://writesonic.com/blog/jasper-ai-alternatives/#:~:text=copy%20ai%20alternatives.-,Rytr,turnaround%20time%20with%20the%20content)
+[^5]: [eLearing Industry](https://elearningindustry.com/elearning-trends-top-ld-trends-to-watch-out-for-in-2023#)
+
 
