@@ -6,7 +6,7 @@ Nov 2, 2023
 
 ![Alt text](image.png)
 # Overview and Origin of Jasper
-Jasper was founded in January 2021 in Austin, Texas, by Chris Hull, Dave Rogenmoser and John Philip Morgan. These three technology experts had been working together and exploring AI technologies since 2014. One of their first forrays into this market was starting up a digital marketing agency, called Proof, which eventually failed. During this time, Rosenmoser had started looking into several LLM's and the team built and lanched the first version of Jasper in 2021. [^1]
+Jasper was founded in January 2021 in Austin, Texas, by Chris Hull, Dave Rogenmoser and John Philip Morgan. These three technology experts had been working together and exploring AI technologies since 2014. One of their first forrays into this market was starting up a digital marketing agency, called Proof, which eventually failed. During this time, Rosenmoser had started looking into several large language models and the team built and lanched the first version of Jasper in 2021. [^1]
 
 Jasper has had two rounds of major funding: 
 * $6M in June of 2021 from Foundation Capital
@@ -38,7 +38,7 @@ ChatGPT’s open source was one of the many models used to build Jasper along wi
 
 Jasper’s competitive advantage is truly its ability to provide consistent branding and voice across their clients’ multiple touch points, including multi-language support in over 30 languages. As companies grow and sales and marketing departments support in-country sales, Jasper’s *Brand Voice* and *Co Pilot* features will help assist with congruency and accuracy across clients products and markets. From the user side, the easy access to application extensions, make the product easy to use and in-the-end, saves time in the creative process. 
 
-Numerous AI content creators have similar ability create words and intelligent content based on the use of prompts. And what is consistent across all of them is that garbage in equals garbage out! What makes Jasper stand out may be simply their ability to market themselves as a full service, or end-to-end provider, that can meet the needs of large agencies or in-house marketing departments. 
+Numerous AI content creators have similar ability to create words and intelligent content based on the use of prompts. And what is consistent across all of them is that garbage in equals garbage out! What makes Jasper stand out may be simply their ability to market themselves as a full service, or end-to-end provider, that can meet the needs of large agencies or in-house marketing departments. 
 
 There are dozens of comapanies that are positioning themsleves as niche need players in the ai content creation space. However, Jasper’s top competitors in providing a full solution approach (including features such as tone check, multilanguage support, graphics/art, team collaboration) are CopyAI, Rytr and WriteSonic. For agencies or individuals looking to “test out” these content ai companies, WriteSonic does come in at the lowest entry point cost of $12/month for an indivudal user, while Jasper’s lowest entry point cost is $40 per month.[^4]
 
@@ -47,16 +47,16 @@ There are dozens of comapanies that are positioning themsleves as niche need pla
 
 My recommendation for Jasper is to build a unique product offering for the E-Learning Market. The E-learning market was valued at $181.15B in 2018 and is projected to reach $269.79B by 2026. 
 
-As stated by Elearningindustry.com  :
+As stated by eLearning Industry Reports:
 
 >…the top 8 trends in learning and training development for 2023 include AI-powered personalized learning, VR/AR technology, gamification, nanolearning, employee well-being training, and more. L&D teams are currently at the forefront of these rapid technology breakthroughs and are investing time and energy in retraining and upskilling employees, as well as implementing cost-cutting technologies and practices. To stay up to date with market changes and enhance your company's training program, consider partnering with the right vendor who will keep you ahead of the curve.[^5] 
 >
-Key to this product line success is further developing Jasper’sAI text to voice and human animation for video offerings. Tools that help customize the learning experience for the student based on key components of learning styles:  visual, auditory, kinesthetic and reading/writing.
+Key to this product line success is further developing Jasper’s AI text to voice and human animation for video offerings. Also, Jasper should increase offerings/tools that help customize the learning experience for students based on the key components of learning styles:  visual, auditory, kinesthetic and reading/writing.
  
-In addition, the agility of the ai provided by Jasper could leverage a unique model that would allow you to choose between learning environments, type of vertical market and age of student. The other recommendation I have is to package a individual user account specifically for organizations that have unique training needs for either a small niche market, or training within their organization for employee training of best practices, employee success, and other metrics.
+In addition, the agility of the ai provided by Jasper could leverage a unique model that would allow you to choose between learning environments, type of vertical market and age of student. The other recommendation I have is to package an individual user account specifically for organizations that have unique training needs for either a small niche market, or training within their organization for employee training of best practices, employee success, and other metrics.
 
 # Outlook
-The future market for AI content and creation providers is limited only by what we can't imagine. It is worthy to note that while these applications are becoming wide-spread, the basic premise still holds that to be successful (in writing accurate and persuasive content) the user must be knowledgable --if not an expert-- in the product, vertical market, etc. Stories of plagerism and inaccuracies abound and post a real concern for those looking to leverage AI content creation in their businesses. However, I believe that AI content creation will continue to radically trasnform and improve the quality of internal and external communications for companies of all sizes. I hope the customer ends up reaping the benefits of more impactful advertising, products, services and user manuals.  And that in-the-end, this reduces costs across the board for us, the end consumer!   
+The future market for AI content and creation providers is limited only by what we currently haven't imagined. It is worthy to note that while these applications are becoming wide-spread, the basic premise still holds that to be successful (in writing accurate and persuasive content) the user must be knowledgable --if not an expert-- in the product, vertical market, etc. Stories of plagerism and inaccuracies abound and post a real concern for those looking to leverage AI content creation in their businesses. However, I believe that AI content creation will continue to radically trasnform and improve the quality of internal and external communications for companies of all sizes. I hope the customer ends up reaping the benefits of more impactful advertising, better products and more useful user manuals.  And that in-the-end, this reduces costs across the board for us, the end consumer!   
 
 ## Addtional Reading
 [Exploding Topics](https://explodingtopics.com/blog/ai-trends)\
